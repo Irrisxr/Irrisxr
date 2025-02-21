@@ -1,19 +1,17 @@
-# [Your Name]
+# Matthew Savchenkov
 
-[Your role, e.g., Developer] | [Your passion, e.g., Building efficient solutions]
-
----
-
-## Now
-- Learning: [e.g., Rust]  
-- Working on: [e.g., CLI tool]  
+Student | Bachelor | Data Science
 
 ---
 
 ## Stack
-- Python, JavaScript  
-- React, Node.js  
-- Git, Docker  
+- Python, SQL, Excel
+- Numpy, Pandas, Scipy, Spark, Dask, Matplotlib, Seaborn, Yellowbrick, NLTK, PyMorphy, SpaCy, OpenCV
+- Scikit-learn, CatBoost, LightGBM, XGBoost, LightAutoML, Optune, Statsmodels, PyTorch, 
+- Git, Streamlit, Wandb, Huggingface
+
+## Also working with
+- Nilearn, Imblearn, Cuml, AutoGluon, PyTorch Lightning,
 
 ---
 
