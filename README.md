@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # [Your Name]
 
 [Your role, e.g., Developer] | [Your passion, e.g., Building efficient solutions]
