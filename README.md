@@ -15,12 +15,6 @@ Student | Bachelor | Data Science
 
 ---
 
-## Projects
-- [Project Name](link) - [Short desc.]  
-- [Project Name](link) - [Short desc.]  
-
----
-
 ## Contact
 - [@yourhandle](link)  
 - [email@example.com]  
